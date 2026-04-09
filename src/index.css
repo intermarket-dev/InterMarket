@@ -5,14 +5,14 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #6ae6d1;
+  background-color: #57b1a2;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  --bg-color: #29daa5;
+  --bg-color: #5dda7c;
   --text-color: rgba(255, 255, 255, 0.87);
   --button-bg: #9c8f8f;
   --button-hover: #646cff;

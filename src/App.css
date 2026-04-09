@@ -7,11 +7,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #a8aecc 0%, #764ba2 100%);
     padding: 20px;
     overflow: hidden;
 }
 
 .navbar{
-    background-color: rgb(197, 71, 255);
+    background-color: rgb(118, 228, 204);
 }

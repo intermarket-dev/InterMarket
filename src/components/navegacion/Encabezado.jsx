@@ -144,6 +144,7 @@ const Encabezado = () => {
           style={{ cursor: "pointer" }}
         >
           <img
+           
             alt=""
             src={logo}
             width="45"
